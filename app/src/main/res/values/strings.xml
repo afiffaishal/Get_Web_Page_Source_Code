@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Get_Web_Page_Source_Code</string>
+    <string-array name="namepage">
+        <item>http://</item>
+        <item>https://</item>
+
+    </string-array>
+</resources>
